@@ -1,4 +1,4 @@
-## **README: Hotel Reservation Cancellation Prediction**
+## Hotel Reservation Cancellation Prediction**
 
 ### **Project Overview**
 
