@@ -29,7 +29,7 @@ The model's performance was evaluated using the Area Under the Receiver Operatin
 ### **Deployment**
 
 The trained model was deployed as a Flask API and containerized using Docker. This enables easy integration into hotel management systems and facilitates scalability and deployment flexibility.
-### link: https://hub.docker.com/repository/docker/mouradadel313/flask_customer_cancellation/tags
+### DockerHub: https://hub.docker.com/repository/docker/mouradadel313/flask_customer_cancellation/tags
 
 ### **Future Work**
 
