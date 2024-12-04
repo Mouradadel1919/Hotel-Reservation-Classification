@@ -1,5 +1,17 @@
 
 # Hotel Reservation Cancellation Prediction
+
+
+
+
+
+https://github.com/user-attachments/assets/fbe21157-2bbf-4424-b1ef-d9b9a738cf21
+
+
+
+
+
+
 ---
 
 ## Overview 
