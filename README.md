@@ -5,7 +5,6 @@
 ## Overview 
 
 This project aims to predict whether a hotel reservation will be canceled. It leverages machine learning techniques to analyze historical booking data and identify key factors influencing cancellation decisions.
----
 
 ## Data Preprocessing and Exploratory Data Analysis (EDA)
 
@@ -19,12 +18,10 @@ The dataset was thoroughly cleaned and preprocessed to handle missing values, ou
 ## Model Development
 
 A Random Forest Classifier was selected as the primary model for this task. The model was trained on the preprocessed data, with a key modification: **the threshold was set to 0.265 instead of the traditional 0.5**. This adjustment was made to prioritize the prediction of cancellations, even if the model's confidence was relatively low. 
----
 
 ## Model Evaluation
 
 The model's performance was evaluated using the Area Under the Receiver Operating Characteristic Curve (AUC-ROC). The achieved AUC-ROC score of 0.894 indicates strong predictive power.
----
 
 ## Deployment
 
